@@ -1,6 +1,6 @@
 
 
-# Flash Chat ⚡️
+# Coin tracker
 
 ## Our Goal
 
